@@ -1,9 +1,12 @@
 {
-  "name": "ci-cd-practice", 
+  "name": "ci-cd-practice",
   "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
   "scripts": {
-    "test": "node test.js",
-    "build": "mkdir -p dist && echo "Built app" > dist/app.txt"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {}
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
