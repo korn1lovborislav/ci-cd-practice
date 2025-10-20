@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-practice", 
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "build": "mkdir -p dist && echo "Built app" > dist/app.txt"
+  },
+  "dependencies": {}
+}
